@@ -108,7 +108,8 @@ public class AllItems {
 
 		INCOMPLETE_PRECISION_MECHANISM = sequencedIngredient("incomplete_precision_mechanism"),
 		INCOMPLETE_REINFORCED_SHEET = sequencedIngredient("unprocessed_obsidian_sheet"),
-		INCOMPLETE_TRACK = sequencedIngredient("incomplete_track");
+		INCOMPLETE_TRACK = sequencedIngredient("incomplete_track"),
+		INCOMPLETE_PRECISION_MECHANISM = sequencedIngredient("unfinished_creative_plate");
 
 	public static final ItemEntry<Item> PRECISION_MECHANISM = ingredient("precision_mechanism");
 
